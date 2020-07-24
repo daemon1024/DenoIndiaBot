@@ -32,7 +32,7 @@ $ ls
 
 ### Get the TELEGRAM API Token
 
-- Ping [Botfather](telegram.me/botfather) on Telegram and make your instance of OSDC-Bot 🤖 bot by selecting `/newbot` from the options provided.
+- Ping [Botfather](telegram.me/botfather) on Telegram and make your instance of 🤖 bot by selecting `/newbot` from the options provided.
 - Copy the `TELEGRAM_TOKEN` provided by Botfather.
 - Run `export BOT_TOKEN=<TELEGRAM_TOKEN>`
 
